@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -950,4 +949,3 @@ st.caption(
     "sales volume, seasonality, staffing, taxes, platform commissions, "
     "food prices, wastage and other operating conditions."
 )
-```
