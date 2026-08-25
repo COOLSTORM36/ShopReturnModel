@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # ============================================================
 
 st.set_page_config(
-    page_title="Noodle Shop Business Model",
+    page_title="Shop Business Model",
     page_icon="🍜",
     layout="wide"
 )
