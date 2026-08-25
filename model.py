@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🍜 Noodle Shop Business Model")
+st.title("Shop Business Model")
 st.caption("Financial model for a small takeaway / delivery-focused noodle shop")
 
 # ============================================================
